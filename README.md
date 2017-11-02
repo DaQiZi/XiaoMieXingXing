@@ -11,8 +11,8 @@ cocos2dx 3.15 素材来自网络
 
 演示图一     
 
-![](https://github.com/DaQiZi/XiaoMieXingXing/raw/master/gif/gif1.gif)
+![](https://github.com/DaQiZi/XiaoMieXingXing/raw/master/git/gif1.gif)
 
 演示图二
 
-![](https://github.com/DaQiZi/XiaoMieXingXing/raw/master/gif/gif2.gif)
+![](https://github.com/DaQiZi/XiaoMieXingXing/raw/master/git/git2.gif)
